@@ -2,6 +2,9 @@
 
 Welcome to the **Number Guessing Game**, where you can test your luck and guessing skills! The game presents three difficulty levels, and you must guess a number between 1 and 100 within a limited number of attempts. Along the way, you can receive hints depending on the difficulty level.
 
+The game is build as a part of roadmap.sh's projects!
+[Click her to check the project credentials](https://roadmap.sh/projects/number-guessing-game)
+
 ## Game Features:
 
 - **Three Difficulty Levels**:
